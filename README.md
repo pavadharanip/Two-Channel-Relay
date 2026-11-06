@@ -1,4 +1,4 @@
-# ⚡ Arduino-Based 2-Channel Relay Module
+# ⚡ Arduino-Based Two-Channel Relay Module
 
 # 📌 Project Overview
 
