@@ -53,6 +53,7 @@ This project helps understand relay operation, digital output control, and basic
 
 - Arduino IDE
 - Arduino C/C++ Programming
+- [View Arduino Code](./relay.ino)
 
 ## 📟 Output
 
@@ -60,6 +61,8 @@ This project helps understand relay operation, digital output control, and basic
 - Relay 2: TURN ON / TURN OFF
 
 The relay indicator LEDs show the switching status.
+
+![Two Channel Relay](./2%20channel%20relay.jpeg)
 
 ## 🚀 Applications
 
@@ -78,11 +81,6 @@ Through this project, I learned:
 - Digital output programming.
 - Independent control of two relay channels.
 - Basic automation and switching concepts.
-
-## 👩‍💻 Author
-
-Suvetha R  
-Electronics and Communication Engineering Student
 
 ## ⭐ Acknowledgement
 
